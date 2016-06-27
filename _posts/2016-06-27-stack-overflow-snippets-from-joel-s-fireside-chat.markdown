@@ -1,6 +1,6 @@
 ---
 published: true
-title: Stack Overflow: Snippets from Joel’s Fireside Chat
+title: Snippets from Joel’s Fireside Chat
 layout: post
 ---
 ## @spolsky sharing one of the key anecdotes of his early career as an entrepreneur
