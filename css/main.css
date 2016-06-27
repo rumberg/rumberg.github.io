@@ -401,7 +401,7 @@ section#single-wrap p { line-height: 160%; }
 
 section#single-wrap blockquote {
   font-size: inherit;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Open Sans', sans-serif;
   color: #333;
   border-left: 6px solid #39f;
   padding: 0 34px;
