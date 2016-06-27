@@ -31,7 +31,7 @@ layout: post
 
 - **[RescueTime][14]** gives me plenty of insights, how I waste my time online.
 
-## Mobile Apps
+### Mobile Apps
 
 - **[AirMail][15]** is my mobile Email client.
 - **[WhatsApp][16]** let’s communicate with family & friends
